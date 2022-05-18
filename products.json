@@ -1,0 +1,62 @@
+[
+    {
+        "company": "Innisfree",
+        "name": "Intensive Hydrating Cream",
+        "type": "moisturizer",
+        "description": "A daily moisturizer infused with a blend of Jeju green tea and green tea seed oil to leave skin feeling quenched with intense hydration.",
+        "price": "24.00",
+        "display": "images/innesfree-cream-moisturizer 2.png",
+        "option2": "images/innesfree-cream-moisturizer 1.png",
+        "option3": "images/innesfree-cream-moisturizer 3.png",
+        "option4": "images/innesfree-cream-moisturizer-model.png"
+    },
+
+    {
+        "company": "Temple",
+        "name": "Gentle Face Cleanser",
+        "type": "cleanser",
+        "description": "Gentle Face Cleanser safely and effectively removes dirt, excess oil, and toxins from your face without harshly stripping your skin dry or leaving it uncomfortably tight. Makes a great post-workout refresher.",
+        "price": "27.00",
+        "display": "images/temple-cleanser 1.png",
+        "option2": "images/temple-cleanser 2.png",
+        "option3": "images/temple-cleanser 3.png",
+        "option4": "images/temple-cleanser-model.png"
+    },
+
+    {
+        "company": "Salt & Stone",
+        "name": "Natural Mineral Sunscreen Lotion SPF 30",
+        "type": "sunscreen",
+        "description": "An ultra lightweight SPF 30 lotion formulated to be water and sweat resistant. This non-greasy, reef safe formula sinks into the skin effortlessly with no white residue. Hyaluronic Acid and Ashwagandha soothes and moisturizes the skin while Non-Nano Zinc Oxide blocks UVA + UVB rays.",
+        "price": "24.00",
+        "display": "images/saltandstone-sunscreen 1.png",
+        "option2": "images/saltandstone-sunscreen 2.png",
+        "option3": "images/saltandstone-sunscreen 3.png",
+        "option4": "images/saltandstone-sunscreen 4.png"
+    },
+
+    {
+        "company": "True Bontanicals",
+        "name": "Skin Barrier Bootcamp Set",
+        "type": "bundles",
+        "description": "A thoughtfully curated routine to help repair, support and strengthen your skin’s barrier for your glowiest skin yet. Perfect for normal to dry skin types.",
+        "price": "195.00",
+        "display": "images/true-bontanicals-bundle 2.png",
+        "option2": "images/true-bontanicals-bundle 1.png",
+        "option3": "images/true-bontanicals-bundle 3.png",
+        "option4": "images/true-bontanicals-bundle 4.png"
+    },
+
+    {
+        "company": "Botáni",
+        "name": "Rescue Acne Trio Pack",
+        "type": "vegan bundles",
+        "description": "Botani Rescue Acne Trio is a plant-based vegan certified, 3-step skin regime to help restore clear healthy skin naturally. It features phyto-actives such as Australian Lemon Myrtle, White Willow Bark (natural salicylic acid), and Golden Seal Extract all working together to help nurture and heal.",
+        "price": "60.00",
+        "display": "images/botani-vegan-bundle 1.png",
+        "option2": "images/botani-vegan-bundle 2.png",
+        "option3": "images/botani-vegan-bundle 3.png",
+        "option4": "images/botani-vegan-bundle 4.png"
+    }
+    
+]
