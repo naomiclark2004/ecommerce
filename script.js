@@ -287,8 +287,7 @@ setTimeout(() => {
             // console.log(y);
             for (j = 0; j < 5; j++) {
                 var z = ps[j]
-                var x = ps[j].innerHTML
-
+                var x = ps[j].innerHTML;
 
                 if (y === x) {
                     // console.log(z)
